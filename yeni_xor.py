@@ -2,6 +2,7 @@
 # z = b + px1w1 + px2w2 + ... + pxnwn
 
 import math as m
+import numpy as np 
 
 w1 = 0.1
 w2 = w3 = w4 = w5 = w6 = w1
